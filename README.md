@@ -2,7 +2,7 @@
 
 **Laser Force** is a vintage toy-line from the 1980s.
 
-The **Laser Force** consisted of **action figures** and (toy) **vehicles** in the 3¾ inch scale.
+The **Laser Force** consists of **action figures** and (toy) **vehicles** in the 3¾ inch scale.
 
 Being in the 3¾ inch scale made **Laser Force** compatible with other 1980s toy lines in the 3¾ inch scale; such as:
 
