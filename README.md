@@ -2,11 +2,12 @@
 
 **Laser Force** is a vintage toy-line from the 1980s.
 
-The **Laser Force** toy line consists of **action figures** and (toy) **vehicles** in the 3¾ inch scale.
+The **Laser Force** toy line consists of (toy) **vehicles** and **action figures** in the 3¾ inch scale.
+Although the (toy) **vehicles** seemed to be the focus of the **Laser Force** toy line.
 
 ## Compatibility
 
-Being in the 3¾ inch scale made **Laser Force** compatible with other 1980s era toy lines in the 3¾ inch scale; such as:
+Being in the 3¾ inch scale made **Laser Force** compatible with other 1980s era & 1970s area toy lines in the 3¾ inch scale; such as:
 
 * **Adventure People** by Fisher Price _et al._,
 * **A-Team** by Galoob  _et al._,
