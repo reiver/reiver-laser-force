@@ -4,6 +4,8 @@
 
 The **Laser Force** consists of **action figures** and (toy) **vehicles** in the 3¾ inch scale.
 
+## Compatibility
+
 Being in the 3¾ inch scale made **Laser Force** compatible with other 1980s toy lines in the 3¾ inch scale; such as:
 
 * **Adventure People** by Fisher Price _et al._,
@@ -16,7 +18,6 @@ Being in the 3¾ inch scale made **Laser Force** compatible with other 1980s toy
 
 And one can speculate that this may have been the intent of **Laser Force**'s creators.
 That they were making (toy) **vehicles** to be used with other toy lines made by others.
-
 
 ## Corporation
 
