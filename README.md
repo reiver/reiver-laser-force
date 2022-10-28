@@ -13,6 +13,8 @@ Being in the 3¾ inch scale made **Laser Force** compatible with other 1980s era
 * **A-Team** by Galoob  _et al._,
 * **Black Hole** by Mego _et al._,
 * **Buck Rogers** by Mego _et al._,
+* **CHiPs** by Mego _et al._,
+* **Dukes of Hazzard** by Mego _et al._,
 * **G.I. Joe** by Hasbro _et al._,
 * **Metal-Man** by Zee Toys, Zylmex, _et al._,
 * **Micronauts** by Mego _et al._,
