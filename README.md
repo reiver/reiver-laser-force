@@ -3,7 +3,19 @@
 **Laser Force** is a vintage toy-line from the 1980s.
 
 The **Laser Force** toy line consists of (toy) **vehicles** and **action figures** in the 3¾ inch scale.
+
 Although the (toy) **vehicles** seemed to be the focus of the **Laser Force** toy line.
+Children seemed to often use **Laser Force** vehicles with other _compatible_ toy lines.
+
+## Action Figures
+
+The label “action figure” is said to have been coined by Donald Levine in 1964 while he was doing work Hasbro.
+
+As the story goes —
+
+_Action Figures_ are just _dolls_.
+But it was felt that the label “doll” had taken on a connotation where many felt that _dolls_ were toys just for girls.
+So a new label was created — “action figure”; which is a “doll” for boys.
 
 ## Compatibility
 
