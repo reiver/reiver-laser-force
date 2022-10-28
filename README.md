@@ -2,6 +2,22 @@
 
 **Laser Force** is a vintage toy-line from the 1980s.
 
+The **Laser Force** consisted of **action figures** and (toy) **vehicles** in the 3¾ inch scale.
+
+Being in the 3¾ inch scale made **Laser Force** compatible with other 1980s toy lines in the 3¾ inch scale; such as:
+
+* **Adventure People** by Fisher Price _et al._,
+* **A-Team** by Galoob  _et al._,
+* **G.I. Joe** by Hasbro _et al._,
+* **Micronauts** by Mego _et al._,
+* **Pocket Super Heroes** by Mego  _et al._,
+* **Star Wars** by Kenner _et al._,
+* etc.
+
+And one can speculate that this may have been the intent of **Laser Force**'s creators.
+That they were making (toy) **vehicles** to be used with other toy lines made by others.
+
+
 ## Corporation
 
 **Laser Force** was created, by people, through the company which is today known as — **American Plastic Toys Inc.**
