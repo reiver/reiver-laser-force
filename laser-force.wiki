@@ -1,155 +1,103 @@
-<!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
-<head>
-<meta charset="utf-8" />
-<title>Laser Force</title>
-</head>
-<body>
+wiki/1
 
+§ Laser Force
 
+⸺ by Charles Iliya Krempeaux
 
-<main>
-<article>
-	<h1>Laser Force</h1>
-	<section>
-		<address class="h-card">
-			by
-			<a rel="author" class="u-url" href="http://changelog.ca/"><span class="p-given-name">Charles</span> <span class="p-additional-name">Iliya</span> <span class="p-family-name">Krempeaux</span></a>
-		</address>
-	</section>
-	<section>
-		<p>
-			<strong>Laser Force</strong> is a vintage toy-line from the 1980s.
-		</p>
-		<p>
-			The <strong>Laser Force</strong> toy line consists of (toy) <strong>vehicles</strong> and <strong>action figures</strong> all in the <strong>3¾ inch scale</strong>.
-		</p>
-		<p>
-			The <strong>Laser Force</strong> toy line (toy) vehicles are in a seemingly vintage futuristic sci-fi style.
-			And would fit in with many of the 1970s &amp; 1980s sci-fi toy lines.
-			Sci-Fi focused on stories that (at least in part) took place in outer-space and on other planets (other than Earth) were very popular during that era.
-		</p>
-		<p>
-			The <strong>action figures</strong> are <strong>5-points-of-articulation</strong> (<abbr title="five points of articulation">5PA</abbr>) style figures.
-		</p>
-		<p>
-			The (toy) <strong>vehicles</strong> seemed to be the focus of the <strong>Laser Force</strong> toy line.
-			Children seemed to often use <strong>Laser Force</strong> vehicles with other <em>compatible</em> toy lines.
-		</p>
-		<p>
-			The <strong>Laser Force</strong> toy line were an inexpesive choice that were meant to be compatible with other more expensive toy lines.
-		</p>
-	</section>
-	<section>
-		<h2>Compatibility</h2>
-		<p>
-			Being in the 3¾ inch scale made <strong>Laser Force</strong> was compatible with other 1980s era &amp; 1970s area toy lines in the 3¾ inch scale, such as:
-		</p>
-		<ul>
-			<li><strong>Adventure People</strong> by Fisher Price <em>et al.</em>,</li>
-			<li><strong>A-Team</strong> by Galoob  <em>et al.</em>,</li>
-			<li><strong>Black Hole</strong> by Mego <em>et al.</em>,</li>
-			<li><strong>Buck Rogers</strong> by Mego <em>et al.</em>,</li>
-			<li><strong>CHiPs</strong> by Mego <em>et al.</em>,</li>
-			<li><strong>Dukes of Hazzard</strong> by Mego <em>et al.</em>,</li>
-			<li><strong>G.I. Joe</strong> by Hasbro <em>et al.</em>,</li>
-			<li><strong>Metal-Man</strong> by Zee Toys, Zylmex, <em>et al.</em>,</li>
-			<li><strong>Micronauts</strong> by Mego <em>et al.</em>,</li>
-			<li><strong>Pocket Super Heroes</strong> by Mego  <em>et al.</em>,</li>
-			<li><strong>Star Wars</strong> by Kenner <em>et al.</em>,</li>
-			<li>etc.</li>
-		</ul>
-			One can speculate that this may have been the intent of <strong>Laser Force</strong>'s creators.
-			That they were making (toy) <strong>vehicles</strong> to be used with other toy lines made by others.
-	</section>
-	<section>
-		<h2>Laser Force Vehicles</h2>
-		<p>
-			As far as I can (currently) tell
-			—
-		</p>
-		<p>
-			<strong>Laser Force</strong> had only 4 (toy) vehciles:
-		</p>
-		<ul>
-			<li>the <strong>Laser Craft</strong>,</li>
-			<li>the <strong>Laser Plane</strong>,</li>
-			<li>the <strong>Moon Rover</strong>, and</li>
-			<li>the <strong>Space Boat</strong>.</li>
-		</ul>
-		<p>
-			Although there were multiple variants of each <strong>Laser Force</strong> (toy) vehicle.
-		</p>
-		<p>
-			The body of each <strong>Laser Force</strong> (toy) vehicle could be a different color.
-			The 3 different color versions for the body are:
-		</p>
-		<ul>
-			<li><strong>grey</strong>,</li>
-			<li><strong>gold</strong>, and</li>
-			<li><strong>light tan</strong>.</li>
-		</ul>
-		<p>
-			In addition to this, the windows of the <strong>Laser Force</strong> (toy) vehicles could also be a different (transparent) color.
-			Each version varied by color.
-			The 4 different color versions for the body are:
-		</p>
-		<ul>
-			<li><strong>(transparent) light blue</strong>,</li>
-			<li><strong>(transparent) orange</strong>,</li>
-			<li><strong>(transparent) red</strong>, and</li>
-			<li><strong>(transparent) very dark grey</strong>.</li>
-		</ul>
-		<figure>
-			<img src="v76fqtprpuq71.jpeg" />
-			<figcaption>
-				Photo of vintage Laser Force toys.
-				In photo —
-				the top row has 3 different variants of the <strong>Laser Plane</strong>,
-				the middle row has 4 different variants of the <strong>Laser Craft</strong>,
-				the bottom-left has 1 <strong>Moon Rover</strong>,
-				the bottom-right has 1 <strong>Space Boat</strong>,
-				leaning against the <strong>Moon Rover</strong> is the black version of the action figure, and
-				leaning against the <strong>Space Boat</strong> is the grey version of the action figure.
-				The photo was posted on posted by (reddit user) "MrPNGuin" on reddit ( https://www.reddit.com/r/nostalgia/comments/pz9ir6/anyone_else_have_laser_force_toys_i_had_the_jet/ );
-				but (reddit user) "vintagetoystuff" claimed it was his photo.
-			</figcaption>
-		</figure>
-	</section>
-	<section>
-		<h2>Corporation</h2>
-		<p>
-			<strong>Laser Force</strong> was created, by people, through the company which is today known as — <strong>American Plastic Toys Inc.</strong>
-		</p>
-		<p>
-			Although “<strong>American Plastic Toys Inc.</strong>” was not the company's original name.
-			The company's previously was named — <strong>Gay Toys Inc.</strong>
-		</p>
-		<p>
-			Why the name change‽ —
-		</p>
-		<p>
-			This is speculation, but the common meaning for the word “gay” used to be —
-		</p>
-		<blockquote>
-			gay (adjective): joyous, joyful, happy.
-		</blockquote>
-		<p>
-			It is likely that this is the meaning for the word “gay” that the previous company name (“<strong>Gay Toys Inc.</strong>”) was derived from.
-		</p>
-		<p>
-			Most people nowadays aren't aware of this meaning for the word “gay”.
-			And would probably assume a company named “Gay Toys Inc.” makes sex-toys (rather than children's toys) which could be why the company changed its name.
-			The company makes childrens' toys, and may not have wanted to connote anything sexual (as it violates common taboos in common contemporary North American culture).
-		</p>
-		<p>
-			<strong>Laser Force</strong> toys seemed to be released both when the company was called ‘<strong>Gay Toys Inc.</strong>’, and when the company was called ‘<strong>American Plastic Toys Inc.</strong>’.
-		</p>
-	</section>
-</article>
-</main>
+**Laser Force** is a vintage toy-line from the 1980s.
 
+The **Laser Force** toy line consists of (toy) **vehicles** and **action figures** all in the **3¾ inch scale**.
 
+The **Laser Force** toy line (toy) vehicles are in a seemingly vintage futuristic sci-fi style.
+And would fit in with many of the 1970s &amp; 1980s sci-fi toy lines.
+Sci-Fi focused on stories that (at least in part) took place in outer-space and on other planets (other than Earth) were very popular during that era.
 
-</body>
-</html>
+The **action figures** are **5-points-of-articulation** (**5PA**) style figures.
+
+The (toy) **vehicles** seemed to be the focus of the **Laser Force** toy line.
+Children seemed to often use **Laser Force** vehicles with other //compatible// toy lines.
+
+The **Laser Force** toy line were an inexpesive choice that were meant to be compatible with other more expensive toy lines.
+
+§§ Compatibility
+
+Being in the 3¾ inch scale made **Laser Force** was compatible with other 1980s era &amp; 1970s area toy lines in the 3¾ inch scale, such as:
+
+• **Adventure People** by Fisher Price //et al.//,
+• **A-Team** by Galoob  //et al.//,
+• **Black Hole** by Mego //et al.//,
+• **Buck Rogers** by Mego //et al.//,
+• **CHiPs** by Mego //et al.//,
+• **Dukes of Hazzard** by Mego //et al.//,
+• **G.I. Joe** by Hasbro //et al.//,
+• **Metal-Man** by Zee Toys, Zylmex, //et al.//,
+• **Micronauts** by Mego //et al.//,
+• **Pocket Super Heroes** by Mego  //et al.//,
+• **Star Wars** by Kenner //et al.//,
+• etc.
+
+One can speculate that this may have been the intent of **Laser Force**'s creators.
+That they were making (toy) **vehicles** to be used with other toy lines made by others.
+
+§§ Laser Force Vehicles
+
+As far as I can (currently) tell
+—
+
+**Laser Force** had only 4 (toy) vehciles:
+
+• the **Laser Craft**,
+• the **Laser Plane**,
+• the **Moon Rover**, and
+• the **Space Boat**.
+
+Although there were multiple variants of each **Laser Force** (toy) vehicle.
+
+The body of each **Laser Force** (toy) vehicle could be a different color.
+The 3 different color versions for the body are:
+
+• **grey**,
+• **gold**, and
+• **light tan**.
+
+In addition to this, the windows of the **Laser Force** (toy) vehicles could also be a different (transparent) color.
+Each version varied by color.
+The 4 different color versions for the body are:
+
+• **(transparent) light blue**,
+• **(transparent) orange**,
+• **(transparent) red**, and
+• **(transparent) very dark grey**.
+
+⁁ laser-force/v76fqtprpuq71.jpeg
+Photo of vintage Laser Force toys.
+In photo —
+the top row has 3 different variants of the **Laser Plane**,
+the middle row has 4 different variants of the **Laser Craft**,
+the bottom-left has 1 **Moon Rover**,
+the bottom-right has 1 **Space Boat**,
+leaning against the **Moon Rover** is the black version of the action figure, and
+leaning against the **Space Boat** is the grey version of the action figure.
+The photo was posted on posted by (reddit user) "MrPNGuin" on reddit ( https://www.reddit.com/r/nostalgia/comments/pz9ir6/anyone_else_have_laser_force_toys_i_had_the_jet/ );
+but (reddit user) "vintagetoystuff" claimed it was his photo.
+
+§§ Corporation
+
+**Laser Force** was created, by people, through the company which is today known as — **American Plastic Toys Inc.**
+
+Although “**American Plastic Toys Inc.**” was not the company's original name.
+The company's previously was named — **Gay Toys Inc.**
+
+Why the name change‽ —
+
+This is speculation, but the common meaning for the word “gay” used to be —
+
+gay (adjective): joyous, joyful, happy.
+
+It is likely that this is the meaning for the word “gay” that the previous company name (“**Gay Toys Inc.**”) was derived from.
+
+Most people nowadays aren't aware of this meaning for the word “gay”.
+And would probably assume a company named “Gay Toys Inc.” makes sex-toys (rather than children's toys) which could be why the company changed its name.
+The company makes childrens' toys, and may not have wanted to connote anything sexual (as it violates common taboos in common contemporary North American culture).
+
+**Laser Force** toys seemed to be released both when the company was called ‘**Gay Toys Inc.**’, and when the company was called ‘**American Plastic Toys Inc.**’.
